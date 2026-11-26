@@ -1,0 +1,1 @@
+`resume-roast/examples` is a directory, and I verified that `resume-roast/examples/software-engineer-jd.md` is a file. What’s the exact path to the resume you want reviewed? You can also paste the resume text here.
